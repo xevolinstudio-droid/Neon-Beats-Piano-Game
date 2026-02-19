@@ -1,0 +1,22 @@
+
+{
+  "short_name": "Neon Beats",
+  "name": "Neon Beats: Cyberpunk Rhythm",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/000000/22d3ee.png?text=NB",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/000000/22d3ee.png?text=Neon+Beats",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "orientation": "portrait"
+}
